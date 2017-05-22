@@ -1,0 +1,79 @@
+html{
+	background: #FFFACD;
+	margin-left: 130px;
+    margin-right: 130px;
+    font-family: 'Abel', sans-serif;
+}
+#game-rules{
+	background: #FFB6C1;
+	font-size: 14px;
+}
+#header{
+	margin-top: 0;
+	background: #E6E6FA;
+	padding-top: 10px;
+	font-family: 'Abel', sans-serif;
+	border-bottom: 3px solid #FFB6C1;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+#bottom{
+	background: #E6E6FA;
+	padding: 30px;
+	font-family: 'Abel', sans-serif;
+	border-top: 3px solid #FFB6C1;
+	margin-top: 20px;
+	clear: both;
+}
+.wins-losses {
+	border: 1px solid #E6E6FA;
+	margin: 15px;
+	float: left;
+	position: relative;
+	width: 30%;
+}
+.gameCount {
+	border: 1px solid #E6E6FA;
+	margin: 15px;
+	float: left;
+	position: relative;
+	width: 30%;
+}
+.Score {
+	border: 1px solid #E6E6FA;
+	margin: 15px;
+	float: left;
+	position: relative;
+	width: 30%;
+}
+.titleSection {
+	border-bottom: 1px solid #FFFACD;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#wins-section {
+	margin-left: 60px;
+	float: left;
+}
+#losses-section {
+	margin-left: 60px;
+	float: left;
+}
+#wins-number {
+	margin-left: 90px;
+	clear: both;
+	float: left;
+} 
+#losses-number {
+	margin-left: 90px;
+	float: left;
+}
+.the-numbers {
+	font-size: 40px;
+	font-weight: bold;
+}
+.game-board {
+	font-family: 'Abel', sans-serif;
+}
