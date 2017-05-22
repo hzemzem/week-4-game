@@ -28,46 +28,48 @@ img{
 	clear: both;
 }
 .wins-losses {
-	border: 1px solid #E6E6FA;
+	border: 3px solid #E6E6FA;
 	margin: 15px;
 	float: left;
 	position: relative;
 	width: 30%;
 }
 .gameCount {
-	border: 1px solid #E6E6FA;
+	border: 3px solid #E6E6FA;
 	margin: 15px;
 	float: left;
 	position: relative;
 	width: 30%;
 }
 .Score {
-	border: 1px solid #E6E6FA;
+	border: 3px solid #E6E6FA;
 	margin: 15px;
 	float: left;
 	position: relative;
 	width: 30%;
 }
 .titleSection {
-	border-bottom: 1px solid #FFFACD;
+	border-bottom: 2px solid #FFFACD;
 	margin-left: 20px;
 	margin-right: 20px;
 }
 #wins-section {
+	border-bottom: 2px solid #FFFACD;
 	margin-left: 60px;
 	float: left;
 }
 #losses-section {
+	border-bottom: 2px solid #FFFACD;
 	margin-left: 60px;
 	float: left;
 }
 #wins-number {
-	margin-left: 90px;
+	margin-left: 75px;
 	clear: both;
 	float: left;
 } 
 #losses-number {
-	margin-left: 90px;
+	margin-left: 105px;
 	float: left;
 }
 .the-numbers {
